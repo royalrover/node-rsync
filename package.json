@@ -1,0 +1,19 @@
+{
+  "name": "node-rsync",
+  "version": "0.0.1",
+  "description": "rsync实现",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalrover/node-rsync.git"
+  },
+  "keywords": [
+    "rsync"
+  ],
+  "author": "yangli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royalrover/node-rsync/issues"
+  },
+  "homepage": "https://github.com/royalrover/node-rsync#readme"
+}
