@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/royalrover/node-rsync/issues"
   },
-  "homepage": "https://github.com/royalrover/node-rsync#readme"
+  "homepage": "https://github.com/royalrover/node-rsync#readme",
+  "devDependencies": {
+    "JSONStream": "^1.3.1",
+    "co": "^4.6.0",
+    "event-stream": "^3.3.4",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3",
+    "socket.io-stream": "^0.9.1"
+  }
 }
